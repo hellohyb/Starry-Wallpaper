@@ -4,6 +4,12 @@
 #### 交流群：950284015
 #### 项目声明：此应用及源代码仅供学习交流，不得用于任何商业用途，否则后果自负。
 
+
+### 成果展示（视频演示）：
+最新成果演示地址：https://www.bilibili.com/video/BV1A3zpYGEzf/
+
+初始版本演示地址：https://www.bilibili.com/video/BV1HZ421t7Xp/
+
 ### 下载与安装
 - [StarryWallpaper.zip - macOS (Intel)](https://github.com/hellohyb/Starry-Wallpaper/releases/download/v1.0.0/Starry.Wallpaper-1.0.0-mac.intel.x64.zip)
 - [StarryWallpaper.zip - macOS (M)](https://github.com/hellohyb/Starry-Wallpaper/releases/download/v1.0.0/Starry.Wallpaper-1.0.0-arm64-mac.zip)
@@ -63,9 +69,6 @@ dll文件代码如下
 | 搜索壁纸 | http://wp.birdpaper.com.cn/intf/search?content=${key}&pageno=${pageno}&count=1000 | key：搜索内容，pageno：分页，count：数量 |
 | 最新壁纸 | http://wp.birdpaper.com.cn/intf/newestList?pageno=1&count=5 | pageno：分页count：返回数量 |
 
-### 成果展示：
-最新成果演示地址：https://www.bilibili.com/video/BV1A3zpYGEzf/
-初始版本演示地址：https://www.bilibili.com/video/BV1HZ421t7Xp/
 
 ## Recommended IDE Setup
 
