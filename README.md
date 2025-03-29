@@ -1,7 +1,6 @@
 ### 技术栈：Vue3、Typescript、vite-electron、tailwindcss、element-plus、C++
 ### 项目预览
 [![pAsrbLR.png](https://s21.ax1x.com/2024/11/05/pAsrbLR.png)](https://imgse.com/i/pAsrbLR)
-#### 交流群：950284015
 #### 项目声明：此应用及源代码仅供学习交流，不得用于任何商业用途，否则后果自负。
 
 
